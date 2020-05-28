@@ -18,7 +18,7 @@ Kill the program running in the background using cmd
 ```
 tasklist
 ```
-2) Kill the task forcefully
+2) Find "pythonw" and kill the task forcefully
 ```
 taskkill /F /PID <PID number>
 ```
