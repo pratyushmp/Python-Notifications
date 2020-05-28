@@ -1,6 +1,6 @@
 # Python-Notifications
 This program generates a windows notification for reminding us to drink water every hour
-
+![](output.png)
 ## Requirements
 ```
 pip install plyer
